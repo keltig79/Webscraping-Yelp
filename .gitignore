@@ -1,1 +1,7 @@
 .project
+.vscode/
+.Webscraping-Yelp/
+.Webscraping/
+.anotest.py
+.pandacsv.py
+.test_env/
